@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## 42 Status
-[![lapuya 42 stats](https://badge42.herokuapp.com/api/stats/lapuya)](https://github.com/lapuya/badge42)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/lapuya)](https://github.com/lapuya/badge42)
 
 
 ## Git stats
