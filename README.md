@@ -1,8 +1,8 @@
 # Hi there, I'm Laurence! 👋
 
-* Student of Software Development at <a href="https://www.edix.com/es/">Edix</a>
+* Student of Cross-Platform Application Development at <a href="https://www.edix.com/es/">Edix</a>
 
-* I'm also a student at <a href="https://www.42madrid.com">42 Madrid Fundación Telefónica</a>
+* I'm also a student at <a href="https://www.42madrid.com">42 Madrid Fundación Telefónica</a>!
 
 
 
