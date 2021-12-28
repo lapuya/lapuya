@@ -1,10 +1,15 @@
 # Hi there 👋
 
+## Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lapuya&theme=blueberry)](https://github.com/lapuya)
+
 ## 42 Status
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/lapuya-p)](https://github.com/lapuya)
 
 ## Git stats
-https://github-readme-stats.vercel.app/api?username=lapuya&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true
+[![lapuya's github stats](https://github-readme-stats.vercel.app/api?username=lapuya&count_private=true&show_icons=true&theme=blueberry)](https://github.com/lapuya)
+
 <!--
 **lapuya/lapuya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
