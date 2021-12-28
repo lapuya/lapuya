@@ -1,8 +1,7 @@
 # Hi there 👋
 
 ## 42 Status
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/lapuya)](https://github.com/lapuya/badge42)
-
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/lapuya)](https://github.com/lapuya)
 
 ## Git stats
 https://github-readme-stats.vercel.app/api?username=lapuya&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true
